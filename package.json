@@ -1,0 +1,39 @@
+{
+  "name": "simple-bs-pract",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "bootstrap": "~3.3.6",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "hbs": "~3.1.0",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/y04nqt/simple-bs-pract.git"
+  },
+  "keywords": [
+    "boot",
+    "strap",
+    "node",
+    "express",
+    "style",
+    "beginner"
+  ],
+  "author": "Aaron Krueger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/y04nqt/simple-bs-pract/issues"
+  },
+  "homepage": "https://github.com/y04nqt/simple-bs-pract#readme",
+  "description": ""
+}
